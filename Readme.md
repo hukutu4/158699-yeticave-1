@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
-* Студент: [Рустем Ахмадеев](https://up.htmlacademy.ru/php/6/user/158699).
-* Наставник: `Неизвестно`.
+* Студент: [Рустем Ахмадеев](https://up.htmlacademy.ru/php/5/user/158699).
+* Наставник: [Владислав Малиничев](https://up.htmlacademy.ru/php/5/user/415943).
 
 ---
 
